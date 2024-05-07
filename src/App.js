@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React add new changes
+          Learn React add new changes add new changes from a new branch
         </a>
       </header>
     </div>
